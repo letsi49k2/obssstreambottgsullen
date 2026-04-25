@@ -36,4 +36,5 @@ obssstreambottgsullen — это немощный инструмент для у
 P.S это все и текст и скрипты и бот и описание я генирировал с поощью ИИ Gemini
 > *Дороботка и интеграции своих каких то скриптов настроек или настройака под себя лучше и быстрее через ИИ*
 
-<img width="2166" height="1984" alt="Gemini_Generated_Image_tsgvoxtsgvoxtsgv" src="https://github.com/user-attachments/assets/dd7905d1-4863-4f54-8cd1-885641880058" />
+<img width="2166" height="1984" alt="readmimd" src="https://github.com/user-attachments/assets/0a559da0-2e40-406e-aa48-23fee27fe0d5" />
+
